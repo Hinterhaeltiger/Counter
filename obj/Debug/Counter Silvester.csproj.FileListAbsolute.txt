@@ -1,0 +1,10 @@
+C:\Users\ole\source\repos\Counter Silvester\Counter Silvester\bin\Debug\Counter Silvester.exe.config
+C:\Users\ole\source\repos\Counter Silvester\Counter Silvester\bin\Debug\Counter Silvester.exe
+C:\Users\ole\source\repos\Counter Silvester\Counter Silvester\bin\Debug\Counter Silvester.pdb
+C:\Users\ole\source\repos\Counter Silvester\Counter Silvester\obj\Debug\Counter Silvester.csprojAssemblyReference.cache
+C:\Users\ole\source\repos\Counter Silvester\Counter Silvester\obj\Debug\Counter_Silvester.Form1.resources
+C:\Users\ole\source\repos\Counter Silvester\Counter Silvester\obj\Debug\Counter_Silvester.Properties.Resources.resources
+C:\Users\ole\source\repos\Counter Silvester\Counter Silvester\obj\Debug\Counter Silvester.csproj.GenerateResource.cache
+C:\Users\ole\source\repos\Counter Silvester\Counter Silvester\obj\Debug\Counter Silvester.csproj.CoreCompileInputs.cache
+C:\Users\ole\source\repos\Counter Silvester\Counter Silvester\obj\Debug\Counter Silvester.exe
+C:\Users\ole\source\repos\Counter Silvester\Counter Silvester\obj\Debug\Counter Silvester.pdb
